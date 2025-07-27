@@ -1,0 +1,8 @@
+Node.js is a server-side language that allows programmers to configure a back-end to a website with javascript
+
+When a page loads with a script linked to it, it will download the script into the browser cache. This can then be used by other html pages without having to re-download then file again.
+
+You can only choose an external script or use internal script in the <script> tag
+
+"use strict" is a flag put at the beginning of javascript files to force a browser to use the new version of javascript in use after 2009. This is largly irrelivant when code is in classes and modules. In this case strict is used by default.
+
