@@ -6,3 +6,9 @@ You can only choose an external script or use internal script in the <script> ta
 
 "use strict" is a flag put at the beginning of javascript files to force a browser to use the new version of javascript in use after 2009. This is largly irrelivant when code is in classes and modules. In this case strict is used by default.
 
+alert("string"), prompt("string", default value in input box) // returns input, confrim("string") // returns bool
+
+string(value) returns value as a string, bool(value) returns true/false, number(value) returns a number. see summary: https://javascript.info/type-conversions#summary
+
+unary operators are applied before binary ones. see: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_precedence
+
